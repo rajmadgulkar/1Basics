@@ -18,3 +18,11 @@ void main(){
         printf("%d\n",obj1.jerNo);
         printf("%s\n",obj2.pName);                                                  printf("%f\n",obj2.sal);
 }
+/*
+18
+Virat
+5.000000
+18
+Rohit
+4.000000
+*/
